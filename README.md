@@ -1,2 +1,3 @@
 # POO-com-Java
-Programação orientada a objeto com Java
+Atividades do Curso de POO utilizando linguagem Java
+
