@@ -1,11 +1,14 @@
 # POO-com-Java
-Atividades do Curso de POO utilizando linguagem Java
+Atividades do Curso de POO utilizando linguagem Java.
 
--Classes 
--Métodos Especiais 
--Encapsulamento
--Relacionamento entre classes
--Objetos Compostos
--Relacionamento de agregação 
--Agregação entre objetos
+<li> Classes </li>
+<li>Métodos Especiais</li>
+<li>Encapsulamento</li>
+<li>Relacionamento entre classes</li>
+<li>Objetos Compostos</li>
+<li>Relacionamento de agregação </li>
+<li>Agregação entre objetos</li>
+ 
+  
+
 
