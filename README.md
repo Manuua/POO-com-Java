@@ -8,7 +8,7 @@ Atividades do Curso de POO utilizando linguagem Java.
 <li>Objetos Compostos</li>
 <li>Relacionamento de agregação </li>
 <li>Agregação entre objetos</li>
-<li>Polimorfismo</li>
+<li>Polimorfismo (sobrepor e sobrecarga)</li>
   
 
 
